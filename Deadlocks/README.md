@@ -1,0 +1,1 @@
+- [Banker's Algorithm](https://github.com/KTU-CSE/System-Software-lab/tree/master/Deadlocks/BankersAlgorithm/README.md)

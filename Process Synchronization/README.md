@@ -1,0 +1,7 @@
+- [Producer Consumer Problem](#) //pending
+- [Dining Philosophers Problem](#) //pending
+- [Single Pass Assembler](https://github.com/KTU-CSE/System-Software-lab/tree/master/Process%20Synchronization/Assemblers/Single%20Pass%20Assembler/README.md)
+- [Pass 1 of a Two Pass Assembler](https://github.com/KTU-CSE/System-Software-lab/tree/master/Process%20Synchronization/Assemblers/Two%20Pass%20Assembler/Pass%201%20of%20a%20Two%20Pass%20Assembler/README.md)
+- [Pass 2 of a Two Pass Assembler](https://github.com/KTU-CSE/System-Software-lab/tree/master/Process%20Synchronization/Assemblers/Two%20Pass%20Assembler/Pass%202%20of%20a%20Two%20Pass%20Assembler/README.md)
+- [Absolute Loader](#) //pending
+- [Symbol Table With Hashing](#) //pending
