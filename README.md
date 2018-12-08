@@ -119,9 +119,12 @@ University: APJ Abdul Kalam Technological University
 
 6) Process Synchronization
 	└──── Producer Consumer Problem
+	         	└──── 14.producer.c
+         		└──── README.md  
 	└──── Dining Philosophers Problem
+				└──── 15.dining.c
+				└──── README.md  
 	└──── Assemblers
-	|		└──── Single Pass Assembler  
 	|		└──── Two Pass Assembler
 	|		       	└──── Pass 1 of a Two Pass Assembler
 	|		       	|	   └──── 16.pass1.c	
@@ -129,7 +132,12 @@ University: APJ Abdul Kalam Technological University
 	|			└──── Pass 2 of a Two Pass Assembler		
 	|		       	|	   └──── 17.pass2.c	
 	|		      	|	   └──── README.md  
+	|		└──── Single Pass Assembler  
+	|		       		   └──── 18.singlepass.c
+	|		      		   └──── README.md  
 	└──── Absolute Loader
+				└──── 19.absolute.c
+				└──── README.md  
 	└──── Symbol Table With Hashing
 ```
 

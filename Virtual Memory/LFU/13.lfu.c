@@ -1,6 +1,7 @@
 /* 
-    Created on : 08 Dec 18, 10:33
     Title      : LFU page-replacement algorithm
+    Created on : 08 Dec 18, 10:33
+    // Not sure this is the right way
 */
 
 #include <stdio.h>
