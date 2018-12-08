@@ -37,15 +37,15 @@ University: APJ Abdul Kalam Technological University
 
   - [FIFO Page Replacement Algorithm](Virtual%20Memory/FIFO/README.md)
   - [LRU Page Replacement Algorithm](Virtual%20Memory/LRU/README.md)
-  - [LFU Page Replacement Algorithm](Virtual%20Memory/LFU/README.md)                      // toBeDone
+  - [LFU Page Replacement Algorithm](Virtual%20Memory/LFU/README.md)
 
 - **[Process Synchronization](Process%20Synchronization/README.md)**
-  - [Producer Consumer Problem](#)          // toBeDone
-  - [Dining Philosophers Problem](#)        // toBeDone
+  - [Producer Consumer Problem](Process%20Synchronization/Producer%20Consumer/README.md)
+  - [Dining Philosophers Problem](Process%20Synchronization/Dining%20Philosophers/README.md)
   - [Pass 1 of a Two Pass Assembler](Process%20Synchronization/Assemblers/Two%20Pass%20Assembler/Pass%201%20of%20a%20Two%20Pass%20Assembler/README.md)
   - [Pass 2 of a Two Pass Assembler](Process%20Synchronization/Assemblers/Two%20Pass%20Assembler/Pass%202%20of%20a%20Two%20Pass%20Assembler/README.md)
   - [Single Pass Assembler](Process%20Synchronization/Assemblers/Single%20Pass%20Assembler/README.md)
-  - [Absolute Loader](#)                    // toBeDone
+  - [Absolute Loader](Process%20Synchronization/Absolute%20Loader/README.md)
   - [Symbol Table With Hashing](#)          // toBeDone
 
 <hr />

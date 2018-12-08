@@ -1,3 +1,8 @@
+/* 
+    title: Single Pass Assembler
+    Created on : 30 Nov 18, 10:49
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
